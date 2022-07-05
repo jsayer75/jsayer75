@@ -1,5 +1,6 @@
 # 💫 About Me:
-React, Redux, Vue, Typescript, Next.js, Nuxt.js, Node.js
+Software developer with a technical background in Full stack engineering.
+Love new challenges and am always eager to learn new technologies.
 
 
 ## 🌐 Socials:
